@@ -1,0 +1,1 @@
+const crap = (x, bags, cap) => `${x}`.includes("D") ? "Dog!!" : `${x}`.split("@").length > bags * cap ? "Cr@p" : "Clean";

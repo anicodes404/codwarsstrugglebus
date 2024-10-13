@@ -13,7 +13,7 @@ function setReducer(input) {
     let current; 
 
     for (let i = 0; i < input.length; i++){
-        if (current === input[i] {
+        if (current === input[i]) {
             result[result.length - 1] += 1; 
             continue; 
         }

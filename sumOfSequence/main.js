@@ -1,4 +1,4 @@
-const sequenceSum = (begin, end, step) {
+const sequenceSum = (begin, end, step) => {
     if (begin > end) return 0; 
 
     let sum = 0; 
